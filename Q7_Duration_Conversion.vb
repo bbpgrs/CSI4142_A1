@@ -31,5 +31,5 @@ Function firstDigits(s As String) As String
         End If
     Next
 
-    onlyDigits = retval
+firstDigits = retval
 End Function
