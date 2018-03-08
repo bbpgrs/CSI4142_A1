@@ -1,3 +1,5 @@
+'Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+
 Function CONVDUR(ByVal t As String) As String
     Dim num As Integer
     num = Val(firstDigits(t))
