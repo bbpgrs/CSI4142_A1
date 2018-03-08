@@ -1,3 +1,5 @@
+-- Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+
 -- Insert data into Location Table
 INSERT INTO public."Location"("City", "State")
 SELECT DISTINCT "City", "State"
